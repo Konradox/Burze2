@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Burze</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_warnings">WarningsActivity</string>
+    <string name="warningsActivityTitle">Ostrzeżenia</string>
+    <string name="warningsActivityNoCityInfo">Wprowadź nazwę miejscowości</string>
+    <string name="warningsActivityCityNotFound">Nie znaleziono miejscowości</string>
+    <string name="warningsActivitySearch">Wyszukiwanie...</string>
+    <string name="warningsActivityCityName">Nazwa miejscowości</string>
+    <string name="warningsActivityHazardsNotFound">Brak ostrzeżeń pogodwoych dla wskazanej loakalizacji.</string>
+    <string name="warningsActivityFirstHazard">I Stopień zagrożenia</string>
+    <string name="warningsActivitySecondHazard">II Stopień zagrożenia</string>
+    <string name="warningsActivityThirdHazard">III Stopień zagrożenia</string>
+    <string name="warningsActivityFrost">mrozem.</string>
+    <string name="warningsActivityHeat">upałem.</string>
+    <string name="warningsActivityWind">wiatrem.</string>
+    <string name="warningsActivityDrop">opadem.</string>
+    <string name="warningsActivityStorm">burzą.</string>
+    <string name="warningsActivityWhirlwind"> trąbą powietrzną.</string>
+    <string name="Warnings">Ostrzeżenia</string>
+    <string name="orCoordinates">lub współrzędne</string>
+    <string name="title_activity_storms">Burze</string>
+    <string name="Storms">Burze</string>
+    <string-array name="radius_array">
+        <item>5km</item>
+        <item>10km</item>
+        <item>15km</item>
+        <item>20km</item>
+        <item>25km</item>
+        <item>40km</item>
+        <item>50km</item>
+        <item>100km</item>
+    </string-array>
+    <string-array name="country_array">
+        <item>Inne państwa</item>
+        <item>Chorwacja</item>
+        <item>Czechy</item>
+        <item>Holandia</item>
+        <item>Niemcy</item>
+        <item>Słowacja</item>
+        <item>Słowenia</item>
+    </string-array>
+    <string name="title_activity_map">Mapa</string>
+    <string name="noInternetConnection">Brak połączenia z Internetem.</string>
+    <string name="internetConnectionIsNeeded">Aplikacja wymaga połączenia z Internetem do poprawnego działania.</string>
+    <string name="connected">Połączono!</string>
+    <string name="searching">Wyszukiwanie...</string>
+    <string name="noConnection">Brak połączenia</string>
+    <string name="input">Wprowadź dane</string>
+    <string name="locationNotFound">Nie znaleziono miejscowości.</string>
+    <string name="blankField">Musisz wprowadzić lokalizację</string>
+    <string name="coordsBounds">Współrzędna poza zakresem</string>
+    <string name="noData">Brak danych</string>
+    <string name="coordsOrLocation">Wprowadź współrzędne lub skorzystaj z przycisku lokalizacji</string>
+    <string name="newHazard">Nowe ostrzeżenia!</string>
+    <string name="thereWereNoStrikes">Nie zarejestrowano wyładowań atmosferycznych w wybranej lokalizacji.</string>
+    <string name="strike1">wyładowanie</string>
+    <string name="strikes2to5">wyładowania</string>
+    <string name="strikesMore">wyładowań</string>
+    <string name="inPeriod">"W ciągu "</string>
+    <string name="minutesWeRegistered">" minut zarejestrowano "</string>
+    <string name="closest">". Najbliższe "</string>
+    <string name="km">"km na "</string>
+    <string name="south">południe.</string>
+    <string name="southEast">południowy wschód.</string>
+    <string name="southWest">południowy zachód.</string>
+    <string name="north">północ.</string>
+    <string name="northEast">północny wschód.</string>
+    <string name="northWest">północny zachód</string>
+    <string name="east">wschód.</string>
+    <string name="west">zachód.</string>
+    <string name="myLocalization">Moja lokalizacja</string>
+    <string name="hazardsAndStorms">Ostrzeżenia i burze</string>
+    <string name="poland">Polska</string>
+    <string name="europa">Europa</string>
+    <string name="radius">Promień:</string>
+    <string name="sourceWebsite">Dane oraz API dostępne na stronie:</string>
+    <string name="animated">Mapa animowana</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="From">"Od: "</string>
+    <string name="To">"Do: "</string>
+</resources>

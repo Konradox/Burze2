@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/ksoap2-android-assembly-3.4.0-jar-with-dependencies.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/ActivityHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/Animation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/BurzeDzisNet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/MobileInternetConnectionDetector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/MyComplexTypeBurza.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/MyComplexTypeOstrzezenia.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/NotifyMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/ScaleImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/SpinnerListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/StormsRunnable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/WIFIInternetConnectionDetector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pl/edu/agh/metal/krugala/burze/Zoom.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background3.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background4.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background5.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background6.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background7.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background8.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/fail.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/success.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/spinner_my.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" charset="UTF-8" />
+  </component>
+</project>

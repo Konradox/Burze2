@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="fill_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="pl.edu.agh.metal.krugala.burze.StormsActivity"
+    android:background="@drawable/background"
+    android:id="@+id/mainLayout"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnWarnings"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:onClick="btnWarningsClickAction"
+        android:text="@string/hazardsAndStorms" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/poland"
+        android:id="@+id/btnPoland"
+        android:onClick="btnPolandClickAction"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/europa"
+        android:id="@+id/btnEurope"
+        android:onClick="btnEuropeClickAction"
+        android:layout_gravity="center_horizontal" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerCountry"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sourceWebsite"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:textSize="16sp"
+        android:textColor="#ffffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="https://burze.dzis.net/"
+        android:id="@+id/textView2"
+        android:layout_gravity="bottom|center_horizontal"
+        android:autoLink="web"
+        android:textSize="20sp" />
+
+
+</LinearLayout>
